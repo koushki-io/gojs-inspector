@@ -1,0 +1,21 @@
+.diagram-component {
+  width: 400px;
+  height: 400px;
+  border: 1px solid black;
+}
+
+label {
+  font: 300 1rem Roboto, helvetica, sans-serif;
+  color: #212121; /* Grey 900 */
+  display: block;
+  padding: 2px;
+}
+
+input {
+  font: 300 1rem Roboto, helvetica, sans-serif;
+  border: 0;
+  outline: none;
+  border-bottom: 1px solid #212121; /* Grey 900 */
+  padding: 2px;
+  margin-left: 2px;
+}
